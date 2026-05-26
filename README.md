@@ -131,4 +131,4 @@ ecommerce-purchase-intent-prediction/
 ├── online_shoppers_intention.csv      ← Dataset
 ├── README.md                          ← You are here
 └── Online_Retail_Conversion_Prediction.docx  ← Detailed project report
-``
+```
