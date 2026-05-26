@@ -127,7 +127,7 @@ All metrics calculated on the held-out test set (2,466 sessions) using the actua
 ```
 ecommerce-purchase-intent-prediction/
 │
-├── Online_retail_prediction.ipynb     ← Main notebook (full analysis)
+├── ecommerce-purchase-intent-prediction.ipynb ← Main notebook (full analysis)
 ├── online_shoppers_intention.csv      ← Dataset
 ├── README.md                          ← You are here
 └── Online_Retail_Conversion_Prediction.docx  ← Detailed project report
